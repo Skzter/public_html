@@ -2,4 +2,4 @@
 
 
 let test = "haha hihi";
-alert(test);
+//alert(test);
