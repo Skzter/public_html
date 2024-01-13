@@ -3,14 +3,51 @@ h1 {
   text-align: center;
 }
 
-header {
-	display: flex;
-	gap: 10vw;
-	width: 50vw;
-	justify-content: center;
-	align-items: center;
-	border: solid black 2px;
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: grey;
+	overflow: hidden;
 }
+
+
+li
+{
+	float: left;
+	border-right: 1px solid black;
+}
+
+
+li a
+{
+	display: block;
+	padding: 8px;
+	color: white;
+	text-align: center;
+	text-decoration: none;	
+}
+
+li a:hover
+{
+	background-color: #111;
+}
+
+li:last-child
+{
+	border-right: none;
+}
+
+nav
+{
+}	
+
+header
+{
+}
+
+
 
 footer
 {
