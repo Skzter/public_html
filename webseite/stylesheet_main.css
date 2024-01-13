@@ -10,5 +10,12 @@ header {
 	justify-content: center;
 	align-items: center;
 	border: solid black 2px;
-
 }
+
+footer
+{
+	display: grid;
+	gap: 10vw;
+	border: solid black 2px;
+}
+
