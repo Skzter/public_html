@@ -14,8 +14,9 @@ header {
 
 footer
 {
-	display: grid;
-	gap: 10vw;
+	display: flex;
+	gap: 5vw;
+	justify-content: center;
 	border: solid black 2px;
 }
 
