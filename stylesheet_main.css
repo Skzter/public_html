@@ -84,11 +84,17 @@ footer
 {
 }
 
+section
+{
+	
+}
+
 .footer-content
 {
 	display: flex;
 	background-color: grey;
 	gap: 5vw;
+	justify-content: center;
 }
 	
 
@@ -96,5 +102,6 @@ footer
 {
 	text-decoration: none;
 	color: white;
+	padding: 8px;
 }
 
