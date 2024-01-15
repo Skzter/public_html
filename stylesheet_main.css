@@ -80,28 +80,11 @@ nav
 header
 {
 }
+
 footer
 {
 }
 
 section
 {
-	
 }
-
-.footer-content
-{
-	display: flex;
-	background-color: grey;
-	gap: 5vw;
-	justify-content: center;
-}
-	
-
-.footer a
-{
-	text-decoration: none;
-	color: white;
-	padding: 8px;
-}
-
