@@ -79,12 +79,27 @@ li.dropdown
 	display: block;
 }
 
-.info p
+.info
 {
 	width: 75vw;
 	margin: auto;
 }
 
+.info ol
+{
+	display: inline-grid;
+	text-align: left;
+}
+
+.info li
+{
+	border-right: none;
+}
+
+.active
+{
+	background-color: #111;
+}
 nav
 {
 }	
