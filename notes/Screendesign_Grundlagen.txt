@@ -1,0 +1,128 @@
+SCREENDESIGN Vortrag von Bruno und Mir
+
+Übersicht:
+	- Grundlagen des Screendesigns
+		- Aufgaben
+		- Elemente
+		- Prinzipien
+	- Wie wird gutes Screendesign erstellt?
+		- Eckpunkte der Erstellung
+		- Moodboard und Styles	
+		- Vom Design zur Webseite
+
+Grundlagen und Aufgaben des Screendesigns:
+
+	- mehr als gut aussehen
+	--> sorgt dafür, dass Webseite ihre Ziele erreicht
+	- bietet Lösungen für Probleme und Bedürfnisse der Nutzer
+	--> Was kostest Produkt XY; Qualität?; ... **
+	- Ästhetik wichtig, da man lieber schöne als nicht so schöne Produkte benutzt
+	--> Design Verkaufsfaktor **
+
+Auf Webseiten bezogen:
+
+	Ästhetik:
+	- Webseite kann nicht nicht kommunizieren
+	- Design kommuniziert bereits vorm lesen erster Inhalte
+	- auf schönen Webseiten hält man sich lieber auf, sind angenehmer zu bedienen
+	- Screendesign sendet immer Botschaft 
+	- prägt Image eines Unternehmens
+
+	https://www.apple.com/de/
+
+	Interaktion:
+	- Nutzer kann mit Webseite agieren, bestimmte Elemente anklicken und Feedback bekommen
+	- Screendesign soll ihm dies erleichtern
+	--> interaktive Elemente und deren Bedienung sowie Reaktionen sind eindeutig kenntlich gemacht
+
+	https://www.timbuk2.com/products/489cust-custom-alcatraz-laptop-backpack?variant=12733979590698
+
+	Qualität und Professionalität:
+	- Design und Qualität hängen in der Realität nicht zwangläufig zusammen
+	--> in Konsumentenwahrnehmnung jedoch schon 
+	--> Design erzeugt Image und bestimmtes Qualitätsniveau
+	- Ästhetik, positives Image, leichte Bedienung, bessere Orientierung tragen alle zum professionellen Eindruck hinzu
+	--> Je besser die Webseite darauf ausgelegt ist, desto besser wird sie vom Kunden wahrgenommen ***
+ 	
+	https://grovemade.com
+
+	Glaubwürdigkeit:
+	- Qualität und Professionalität geht in Glaubwürdigkeit über 
+	--> ästhetisch ansprechendes Design und entsprechende Inhalte führen zu hoher Glaubwürdigkeit
+	- Glaubwürdigkeite a und o 
+	--> keiner kauft bei unglaubwürdigen Unternehmen ein ***
+	- deshalb Bemühung von Unternehmenswebseiten besonders glaubwürdig zu erscheinen
+	--> durch einfache, konsistente Navigation, leichte Interaktion und professionelles Design ***
+	--> Verbrauchersiegel ***
+
+	https://www.conrad.de - ehi siegel - ehi geprüfter online shop
+	https://www.moeve.de - trusted e shops - Gütesiegel
+
+Elemente eines Screendesigns:
+
+	https://www.htwk-leipzig.de
+
+	- Orientierungselemente
+		- geben grobe Orientierung auf der Webseite
+	
+	- Navigationselemente
+		- helfen sich innerhalb der Webseite zu bewegen
+		- kann von einer Unterseite zur nächsten springen	
+		--> verständlich formuliert, damit anwender weiß was ihn erwartet
+
+	- Inhaltselemente
+		- Texte, Bilder, Grafiken, Animationen die die eigentlichen Inhalte vermitteln
+		--> leicht konsumierbar, gut strukturiert  und auf jeder bildschirmgröße gut lesbar
+		
+	- Layoutelemente
+		- dienen der Organisation und Struktur der Inhalte und der visuellen Ästhetik
+		--> bswp Raster aus grafischen Elementen, Inhalts- und Navigationselementen usw
+
+	- Emotionale Elemente
+		- sollen motivieren, bestimmte Dinge zu machen
+		--> Farben und Bilder sehr emotional
+		--> auch text kann motivieren, bspw neugierde wecken
+	
+	https://www.sos-kinderdoerfer.de/helfen/spenden	
+
+	- Interaktionselemente
+		- Dialogelemente wie Formulare
+		--> Nutzer kann Sachen auswählen, Texte eingeben und eine Aktion ausführe (Button Klick)
+		--> Danach Reaktion (laden neuer Webseite, Bestätigung, ...) um nicht zu verunsichern oder eventuelle Fehlermeldung
+
+	- siehe Gratis Info per Post, Newsletter unten
+
+Screendesign-Prinzipien
+		
+	- komplexes Gebilde aus verschiedenen Grafischen Elementen, die alle spezielle Bedeutung haben
+	- vergleichbar mit Puzzlespiel
+	--> aus vielen Einzelteilen ein Gesamtbild, sodass kein Einzelteil isoliert ist und der Gesamteindruck harmonisch erscheint
+
+	Dieter Rams - zehn Thesen für gutes Design (Industriedesigner der Moderne)
+
+	Gutes Design ist innovativ.
+	Gutes Design macht ein Produkt verständlich.
+	Gutes Design ist ästhetisch.
+	Gutes Design macht ein Produkt brauchbar.
+	Gutes Design ist unaufdringlich.
+	Gutes Design ist ehrlich.
+	Gutes Design ist langlebig.
+	Gutes Design ist konsequent bis ins letzte Detail.
+	Gutes Design ist umweltfreundlich.
+	Gutes Design ist so wenig Design wie möglich.
+
+	Ersteindruck:
+	- Wie bei Begegnung mit Menschen
+	--> Innerhalb erster Sekunden Einschätzung über Sympathie für oder Antipathie gegenüber der Webseite
+	- Wirkt sich auf spätere Interaktion aus
+	-->Je besser, desto aufgeschlossener und positiver der Nutzer gegenüber weiteren Eindrücken
+
+	Zweiteindruck:
+	- Webseite muss Nutzer überzeugen von Produkt/Leistung
+	- dafür nur wenige Sekunden zeit
+	- Nutzer überfliegt/scannt die Webseite
+	--> wenn positiver Eindruck, dann entscheidend ob Webseite glaubwürdig erscheint
+	- Entscheidet ob Nutzer bleibt oder geht
+!!!Bruno
+- Wie wird gutes Screendesign erstellt?
+
