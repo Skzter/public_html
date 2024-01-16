@@ -112,7 +112,7 @@ header
 
 footer
 {
-	position: absolute;
+	position: relative;
 	width: 99vw;
 	margin: auto;
 	bottom: 0;
