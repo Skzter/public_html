@@ -2,6 +2,9 @@
 
 function suche()
 {
-    var eingabe_suchfeld = document.getElementById('suchleiste').value;
-    alert(eingabe_suchfeld);
+    var suchfeld = document.getElementById('suchleiste');
+    var eingabe_suchfeld = suchfeld.value;
+    eingabe_reset = '';
+    suchfeld.value = eingabe_reset;
+    alert('Suche funktioniert nicht xD');
 }
