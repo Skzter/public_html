@@ -122,9 +122,9 @@ header img
 	height: 12vh;
 }
 
-.info img
+#gsd img, #asdae img, #asdi img, #asdqp img, #asdg img
 {
-	width: 96vw;
+	width: 56vw;
 }
 
 .siegel
