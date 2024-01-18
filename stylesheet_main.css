@@ -120,6 +120,11 @@ header img
 	height: 12vh;
 }
 
+.info img
+{
+	height: 30em;
+}
+
 .siegel
 {
 	float: right;
