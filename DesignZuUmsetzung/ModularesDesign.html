@@ -52,33 +52,59 @@
 			</ul>
 		</nav>
     
-		<main>
+		<main id="ModDes">
 			<h1>Modulares Design</h1>
 				<article id="md">
 					<div class="info">
 						<p>
 							Modulares Design ist eine innovative Herangehensweise, die nicht auf pixelgenaue Website-Gestaltung abzielt, sondern ein Design-System schafft, das die 
 							Gestaltung für einzelne Elemente festlegt. Ein Beispiel für diese Methode ist das Atomic Design, das davon ausgeht, bei der Gestaltung mit den kleinsten 
-							Elementen zu beginnen und diese schrittweise zu größeren Elementen zusammenzusetzen (Atome -> Moleküle -> Organismen -> Seitenvorlagen -> Websites).
-							<br></br>
-								<img src="../pictures/Gp/atom.png" alt="atom-1">
+							Elementen zu beginnen und diese schrittweise zu größeren Elementen zusammenzusetzen.
+							<br><br>
+								<h3>Atome</h3>
+								<div id = "bsp">
+									<img src="../pictures/Gp/atom.png" alt="atom-1" style="height: 30vh;">
+									<div class = "beispielsuche" style="text-align: left;">
+											<br>
+											<input type="text"          placeholder="Suche.." id="suchleiste">
+											<br><br>
+											<button type="submit" id="suchknopf" onclick="suche();"><i class="fa fa-search"></i></button>
+									</div>
+								</div>
+								
+								<br>
 								<figcaption> Einzelne Atome einer Suchleiste </figcaption>
-							<br></br>
-								<img src="../pictures/Gp/molekül.png" alt="molekül-1">
+								
+								<br></br>
+								<h3>Moleküle</h3>
+								<div id="bsp">
+								<img src="../pictures/Gp/molekül.png" alt="molekül-1" style="height: 20vh;">
+								
+									<div class="beispielsuche">
+										<br>
+										<input type="text"          placeholder="Suche.." id="suchleiste">
+										<button type="submit" id="suchknopf" onclick="suche();"><i class="fa fa-search"></i></button>
+									</div>
+								</div>
+								<br> 
 								<figcaption> Aus einzelnen Atomen wird ein Molekül </figcaption>
 							<br></br>
-								<img src="../pictures/Gp/Organismus.png" alt="organismus-1">
+								<h3>Organismen</h3>
+								<img src="../pictures/Gp/Organismus.png" alt="organismus-1"><br><br>
 								<figcaption> Verschiedene Moleküle werden zu einem Organismus </figcaption>
 							<br></br>
-								<img src="../pictures/Gp/templates.png" alt="template-1">
+								<h3>Templates</h3>
+								<img src="../pictures/Gp/templates.png" alt="template-1"><br><br>
 								<figcaption> Mehrere Organismen verbinden sich zu einem Template und bilden so eine "ganze" Webseite </figcaption>
 							<br></br>
-								<img src="../pictures/Gp/seite.png" alt="seite-1">
+								<h3>Seiten</h3>
+								<img src="../pictures/Gp/seite.png" alt="seite-1"><br><br>
 								<figcaption>  Seiten sind konkrete Templates. Sie sind gefüllt mit Inhalten und stellen das Endprodukt dar</figcaption>
 							<br></br>
-							Ein konkretes Beispiel für die Umsetzung von modularem Design ist Patternlab.io, wo man entweder vorhandene Websites kopieren oder selbst CSS schreiben 
+							Ein konkretes Beispiel für die Umsetzung von modularem Design ist <b>Patternlab.io</b>, wo man entweder vorhandene Websites kopieren oder selbst CSS schreiben 
 							kann, um das Design schrittweise aufzubauen. Dieser Ansatz ermöglicht eine effiziente und flexible Entwicklung, da einzelne Module wiederverwendet und 
 							leicht angepasst werden können.
+							<br><br><br>
 						</p>
 					</div>
 				</article>
