@@ -143,3 +143,46 @@ footer
 section
 {
 }
+
+
+.beispielsuche input
+{
+	font-size: 1.2em;
+	margin-left: 10px;
+}
+
+.beispielsuche button
+{
+	width: 2.3em;
+	height: 2.3em;
+	position: absolute;
+	margin-left: 10px;
+}
+
+#ModDes
+{
+	text-align: center;
+}
+
+#bsp
+{
+	display: flex;
+	justify-content: center;
+	gap: 10vw;
+}
+
+#wireframe
+{
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-template-rows: auto auto;
+	justify-content: center;
+	gap: 5em;
+
+}
+
+#wireframe img
+{
+
+	
+}
