@@ -81,8 +81,10 @@ li.dropdown
 
 .info
 {
-	width: 75vw;
+	width: 96vw;
 	margin: auto;
+	padding-left: 2vw;
+	padding-right: 2vw;
 }
 
 .info ol
@@ -122,7 +124,7 @@ header img
 
 .info img
 {
-	height: 30em;
+	width: 96vw;
 }
 
 .siegel
