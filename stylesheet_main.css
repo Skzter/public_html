@@ -4,8 +4,6 @@ html
 	font-family:  'Montserrat';
 }
 
-
-
 h1
 {
   	text-align: center;
@@ -119,7 +117,12 @@ header
 
 header img
 {
-	height: 10vh;
+	height: 12vh;
+}
+
+.siegel
+{
+	float: right;
 }
 
 footer
