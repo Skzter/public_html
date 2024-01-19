@@ -2,3 +2,12 @@
 !!!Bilder einfügen
 Landing Page - eigene Stichpunkte aus xy quellen aber chatgpt texte
 Über uns/Kontakt/Impressum befüllen??
+
+- Informationsseite über Screendesign 
+--> Unterthema im Webdesign
+- im Rahmen einer Präsentation entstanden als Präsentationsmedium
+- Texte wurden von ChatGPT geschrieben ausgehend von eigenen Stichpunkten
+- Quellen auf impressumseite 
+- seite nur grober überblick über thema 
+- wenn interesse, selber weiter recherschieren
+
